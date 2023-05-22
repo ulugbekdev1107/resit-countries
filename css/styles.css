@@ -1,59 +1,86 @@
 /* nunito-sans-300 - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Nunito Sans';
+  font-family: "Nunito Sans";
   font-style: normal;
   font-weight: 300;
-  src: url('../fonts/nunito-sans-v15-latin-300.eot'); /* IE9 Compat Modes */
-  src: url('../fonts/nunito-sans-v15-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('../fonts/nunito-sans-v15-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
-       url('../fonts/nunito-sans-v15-latin-300.woff') format('woff'), /* Modern Browsers */
-       url('../fonts/nunito-sans-v15-latin-300.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('../fonts/nunito-sans-v15-latin-300.svg#NunitoSans') format('svg'); /* Legacy iOS */
+  src: url("../fonts/nunito-sans-v15-latin-300.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/nunito-sans-v15-latin-300.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("../fonts/nunito-sans-v15-latin-300.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */ url("../fonts/nunito-sans-v15-latin-300.woff")
+      format("woff"),
+    /* Modern Browsers */ url("../fonts/nunito-sans-v15-latin-300.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("../fonts/nunito-sans-v15-latin-300.svg#NunitoSans") format("svg"); /* Legacy iOS */
 }
 
 /* nunito-sans-regular - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Nunito Sans';
+  font-family: "Nunito Sans";
   font-style: normal;
   font-weight: 400;
-  src: url('../fonts/nunito-sans-v15-latin-regular.eot'); /* IE9 Compat Modes */
-  src: url('../fonts/nunito-sans-v15-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('../fonts/nunito-sans-v15-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
-       url('../fonts/nunito-sans-v15-latin-regular.woff') format('woff'), /* Modern Browsers */
-       url('../fonts/nunito-sans-v15-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('../fonts/nunito-sans-v15-latin-regular.svg#NunitoSans') format('svg'); /* Legacy iOS */
+  src: url("../fonts/nunito-sans-v15-latin-regular.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/nunito-sans-v15-latin-regular.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("../fonts/nunito-sans-v15-latin-regular.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("../fonts/nunito-sans-v15-latin-regular.woff") format("woff"),
+    /* Modern Browsers */ url("../fonts/nunito-sans-v15-latin-regular.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("../fonts/nunito-sans-v15-latin-regular.svg#NunitoSans") format("svg"); /* Legacy iOS */
 }
 
 /* nunito-sans-600 - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Nunito Sans';
+  font-family: "Nunito Sans";
   font-style: normal;
   font-weight: 600;
-  src: url('../fonts/nunito-sans-v15-latin-600.eot'); /* IE9 Compat Modes */
-  src: url('../fonts/nunito-sans-v15-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('../fonts/nunito-sans-v15-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
-       url('../fonts/nunito-sans-v15-latin-600.woff') format('woff'), /* Modern Browsers */
-       url('../fonts/nunito-sans-v15-latin-600.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('../fonts/nunito-sans-v15-latin-600.svg#NunitoSans') format('svg'); /* Legacy 
+  src: url("../fonts/nunito-sans-v15-latin-600.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/nunito-sans-v15-latin-600.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("../fonts/nunito-sans-v15-latin-600.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */ url("../fonts/nunito-sans-v15-latin-600.woff")
+      format("woff"),
+    /* Modern Browsers */ url("../fonts/nunito-sans-v15-latin-600.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("../fonts/nunito-sans-v15-latin-600.svg#NunitoSans") format("svg");
 }
 
 @font-face {
   font-display: swap;
-  font-family: 'Nunito Sans';
+  font-family: "Nunito Sans";
   font-style: normal;
   font-weight: 800;
-  src: url('../fonts/nunito-sans-v15-latin-800.eot'); /* IE9 Compat Modes */
-  src: url('../fonts/nunito-sans-v15-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('../fonts/nunito-sans-v15-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
-       url('../fonts/nunito-sans-v15-latin-800.woff') format('woff'), /* Modern Browsers */
-       url('../fonts/nunito-sans-v15-latin-800.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('../fonts/nunito-sans-v15-latin-800.svg#NunitoSans') format('svg'); /* Legacy iOS */
+  src: url("../fonts/nunito-sans-v15-latin-800.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/nunito-sans-v15-latin-800.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("../fonts/nunito-sans-v15-latin-800.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */ url("../fonts/nunito-sans-v15-latin-800.woff")
+      format("woff"),
+    /* Modern Browsers */ url("../fonts/nunito-sans-v15-latin-800.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("../fonts/nunito-sans-v15-latin-800.svg#NunitoSans") format("svg"); /* Legacy iOS */
 }
 
-
+/* GLOBAL ROOT  */
+:root {
+  --rc-white: #ffffff;
+  --rc-textcolor: #111517;
+  --rc-dark: #2b3844;
+  --rc-back: #202c36;
+  --rc-nunito: "Nunito Sans";
+}
 /* GLOBAL */
 html {
   box-sizing: border-box;
@@ -64,27 +91,25 @@ html {
 *,
 *::before,
 *::after {
-  box-sizing: inherit;
+  box-sizing: border-box;
+}
+
+.dark {
+  background-color: var(--rc-back);
+  --rc-white: #000000;
+  --rc-textcolor: #ffffff;
+  --rc-background: #2b3844;
 }
 
 body {
-  display: flex;
-  flex-direction: column;
   height: 100%;
-  padding: 0;
-  margin: 0;
-  font-family: "Arial", sans-serif;
+  transition: 0.7s ease;
+  font-family: var(--rc-nunito), "Arial", sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  background-color: #fff;
-  color: #222;
+  background-color: var(--rc-second-bg);
+  color: var(--rc-white);
 }
-
-img {
-  max-width: 100%;
-  height: auto;
-}
-
 
 /* AUTOFILL-STYLES */
 /*input:-webkit-autofill,
@@ -101,7 +126,6 @@ select:-webkit-autofill:focus {
   -webkit-box-shadow: 0 0 0px 1000px #fff inset;
 }*/
 
-
 /* PLACEHOLDER-STYLES */
 /*::-webkit-input-placeholder,
 ::-moz-placeholder,
@@ -110,7 +134,6 @@ select:-webkit-autofill:focus {
   color: rgba(52, 49, 61, 0.5);
   opacity: 1;
 }*/
-
 
 /* VISUALLY-HIDDEN */
 .visually-hidden {
@@ -124,29 +147,242 @@ select:-webkit-autofill:focus {
   overflow: hidden;
 }
 
-
 /* CONTAINER */
 .container {
   width: 100%;
-  max-width: 1200px;
-  padding-left: 50px;
-  padding-right: 50px;
+  max-width: 1440px;
+  padding-left: 80px;
+  padding-right: 80px;
   margin-left: auto;
   margin-right: auto;
 }
+/* CONTAINER */
 
-
-/* MAIN-CONTENT */
-.main-content {
-  flex-grow: 1;
+/* HEADER-CONTENT */
+.header {
+  width: 100%;
+  height: 80px;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  background-color: var(--rc-background);
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.0562443);
 }
 
-@media
-only screen and (-webkit-min-device-pixel-ratio: 2),
-only screen and (   min--moz-device-pixel-ratio: 2),
-only screen and (     -o-min-device-pixel-ratio: 2/1),
-only screen and (        min-device-pixel-ratio: 2),
-only screen and (                min-resolution: 192dpi),
-only screen and (                min-resolution: 2dppx) {
+.navbar {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  text-decoration: none;
+  color: var(--rc-textcolor);
+}
+.logo > span {
+  font-family: var(--rc-nunito);
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 33px;
+  text-decoration: none;
+  color: var(--rc-textcolor);
+}
+.btn {
+  background-color: transparent;
+  border: none;
+  color: var(--rc-textcolor);
+  outline: 2px dotted rebeccapurple;
+  outline-offset: 3px;
+}
 
+.d-flex {
+  display: flex;
+  color: var(--rc-textcolor);
+  font-family: var(--rc-nunito);
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+}
+.d-flex img {
+  margin-right: 8px;
+}
+.d-flex > span {
+  color: var(--rc-textcolor);
+}
+.main {
+  width: 100%;
+  height: 80vh;
+  padding-top: 48px;
+  padding-bottom: 45px;
+}
+.form-filtrey {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 48px;
+}
+.form-search-box {
+  width: 100%;
+  max-width: 480px;
+  background: var(--rc-background);
+  padding-left: 32px;
+  padding-right: 170px;
+  box-shadow: 0px 2px 9px rgba(0, 0, 0, 0.0532439);
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+}
+.form-search-box img {
+  margin-right: 24.5px;
+}
+.search {
+  font-family: var(--rc-nunito);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  flex-grow: 1;
+  padding: 18px 0px;
+  padding-right: 220px;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  text-align: left;
+  color: var(--rc-textcolor);
+}
+select {
+  width: 100%;
+  max-width: 200px;
+  padding: 18px 25px;
+  background-color: var(--rc-background);
+  color: var(--rc-textcolor);
+  border: none;
+  outline: none;
+  box-shadow: 0px 2px 9px rgba(0, 0, 0, 0.0532439);
+  border-radius: 5px;
+}
+/* HEADER-CONTENT */
+
+/* MAIN-CONTENT */
+.card-group {
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 74px;
+}
+.card {
+  max-width: 264px;
+  height: 336px;
+  margin-right: 75px;
+  background-color: var(--rc-background);
+  box-shadow: 0px 0px 7px 2px rgba(0, 0, 0, 0.0294384);
+  border-radius: 5px;
+  overflow: hidden;
+  text-decoration: none;
+}
+.card:hover {
+  cursor: pointer;
+}
+.card:last-child {
+  margin-right: 0px;
+}
+.card-header img {
+  width: 267px;
+  height: 160px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+.card-body {
+  color: var(--rc-textcolor);
+  max-height: 176px;
+  padding-top: 14px;
+  padding-left: 24px;
+  padding-bottom: 46px;
+}
+.region-name {
+  margin: 0px;
+  padding-bottom: 16px;
+}
+.option {
+}
+.option strong span {
+  font-family: var(--rc-nunito);
+
+  padding-bottom: 8px;
+}
+/* */
+/* MAIN-CONTENT */
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2),
+  only screen and (min--moz-device-pixel-ratio: 2),
+  only screen and (-o-min-device-pixel-ratio: 2/1),
+  only screen and (min-device-pixel-ratio: 2),
+  only screen and (min-resolution: 192dpi),
+  only screen and (min-resolution: 2dppx) {
+}
+
+@media screen and (max-width: 428px) {
+  body {
+    height: 2888px;
+  }
+  .header {
+    max-width: 421px;
+  }
+  .navbar {
+    max-width: 420px;
+  }
+  .logo span{
+    font-size: 20px;
+  }
+  .btn {
+  }
+  .dark {
+  }
+  .d-flex {
+  }
+  .container {
+    max-width: 428px;
+    width: 90%;
+    padding: 0px 10px;
+    margin: 0 auto;
+  }
+
+  .main {
+  }
+  .form-filtrey {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .form-search-box {
+    margin-right: 0px;
+    margin-bottom: 30px;
+  }
+  .card-group {
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .card {
+    width: 100%;
+    max-width: 320px;
+    height: 400px;
+    margin-bottom: 30px;
+    margin-right: 0px;
+  }
+
+  .card-header img {
+    width: 100%;
+    height: 200px;
+  }
+  .card-body {
+  }
+  .region-name {
+    margin-right: 0px;
+    margin-bottom: 15px;
+  }
+  .option {
+    margin-right: 0px;
+    margin-bottom: 10px;
+  }
 }

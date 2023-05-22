@@ -1,19 +1,153 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Project</title>
-
+  <meta name="keywords" content="">
+  <title>Resit-Countries |web site page</title>
   <!-- Stylesheets -->
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/styles.css">
 </head>
+
 <body>
+  <header class="header">
+    <div class="container">
+      <nav class="navbar">
+        <a class="logo" href="#"><span>Where in the world?</span></a>
+        <button type="button" class="btn dark"><span class="d-flex"><img src="img/darkmode.svg" alt="darkmode">Dark
+            Mode</span></button>
+      </nav>
+    </div>
+  </header>
 
+  <!-- HEADER SECTION -->
+  <!-- MAIN SECTION -->
+  <main class="main">
+    <div class="container">
+      <!-- form filtrey -->
+      <form action="#" class="form-filtrey">
+        <div class="form-search-box">
+          <img src="img/icon-search-black.svg" alt="search icon">
+          <input type="search" class="search" name="search" id="search" aria-label="Search Countries"
+            placeholder="Search for a country…" required>
+        </div>
 
+        <select name="filter-region" id="filter-region" aria-label="fiter region">
+          <option selected disabled>Filter by Region</option>
+          <option>Africa</option>
+          <option>America</option>
+          <option>Asia</option>
+          <option>Europe</option>
+          <option>Oceania</option>
+        </select>
+      </form>
+      <!-- form filtrey -->
+      <section class="card-group">
+        <a href="belgium.html" class="card">
+          <div class="card-header">
+            <img src="img/germany.png" srcset="img/germany@2x.png" alt="germany">
+          </div>
+          <div class="card-body">
+            <h4 class="region-name">Germany</h4>
+            <div class="option">
+              <strong>Population:</strong><span> 81,770,900</span><br>
+              <strong>Region:</strong><span> Europe</span><br>
+              <strong>Capital:</strong><span> Berlin</span>
+            </div>
+          </div>
+        </a>
+        <a href="#" class="card">
+          <div class="card-header"><img src="img/usa@2x.png" alt="img/usa@2x.png"></div>
+          <div class="card-body">
+            <h4 class="region-name">United States of America</h4>
+            <div class="option">
+              <strong>Population:</strong><span> 323,947,000</span><br>
+              <strong>Region:</strong><span> Americas</span><br>
+              <strong>Capital:</strong> Washington, D.C.<span></span>
+            </div>
+          </div>
+        </a>
+        <a href="#" class="card">
+          <div class="card-header"> <img src="img/Brazil.png" srcset="img/Brazil@2x.png" alt="brazil"></div>
+          <div class="card-body">
+            <h4 class="region-name">Brazil</h4>
+            <div class="option">
+              <strong>Population:</strong><span> 206,135,893</span><br>
+              <strong>Region:</strong><span> Americas</span><br>
+              <strong>Capital:</strong><span> Brasília</span>
+            </div>
+          </div>
+        </a>
+        <a href="#" class="card">
+          <div class="card-header"><img src="img/island.png" srcset="img/island@2x.png" alt="island"></div>
+          <div class="card-body">
+            <h4 class="region-name">Iceland</h4>
+            <div class="option">
+              <strong>Population:</strong><span> 334,300</span><br>
+              <strong>Region:</strong><span> Europe</span><br>
+              <strong>Capital:</strong><span> Reykjavík</span>
+            </div>
+          </div>
+        </a>
+      </section>
+      <section class="card-group">
+        <a href="#" class="card">
+          <div class="card-header"><img src="img/afgan.png" srcset="img/afgan@2x.png" alt=""></div>
+          <div class="card-body">
+            <h4 class="region-name">Afghanistan</h4>
+            <div class="option">
+              <strong>Population:</strong><span> 27,657,145</span><br>
+              <strong>Region:</strong><span> Asia</span><br>
+              <strong>Capital:</strong><span> Kabul</span>
+            </div>
+          </div>
+        </a>
+        <a href="#" class="card">
+          <div class="card-header"><img src="img/al-island.png" srcset="img/al-island@2x.png" alt=""></div>
+          <div class="card-body">
+            <h4 class="region-name">Åland Islands</h4>
+            <div class="option">
+              <strong>Population:</strong><span> 28,875</span><br>
+              <strong>Region:</strong><span> Europe</span><br>
+              <strong>Capital:</strong><span> Mariehamn</span>
+            </div>
+          </div>
+        </a>
+        <a href="#" class="card">
+          <div class="card-header"><img src="img/Albania.png" srcset="img/Albania@2x.png" alt="albania"></div>
+          <div class="card-body">
+            <h4 class="region-name">Albania</h4>
+            <div class="option">
+              <strong>Population:</strong><span> 2,886,026</span><br>
+              <strong>Region:</strong><span> Europe</span><br>
+              <strong>Capital:</strong><span> Tirana</span>
+            </div>
+          </div>
+        </a>
+        <a href="#" class="card">
+          <div class="card-header"><img src="img/Algeria.png" srcset="img/Algeria@2x.png" alt=""></div>
+          <div class="card-body">
+            <h4 class="region-name">Algeria</h4>
+            <div class="option">
+              <strong>Population:</strong><span> 40,400,000</span><br>
+              <strong>Region:</strong><span> Africa</span><br>
+              <strong>Capital:</strong><span> Algiers</span>
+            </div>
+          </div>
+        </a>
+      </section>
+    </div>
+  </main>
+
+  <!-- MAIN SECTION -->
+
+  <!-- MAIN SECTION -->
+  <!-- MAIN SECTION -->
 
   <script src="js/main.js"></script>
 </body>
+
 </html>
